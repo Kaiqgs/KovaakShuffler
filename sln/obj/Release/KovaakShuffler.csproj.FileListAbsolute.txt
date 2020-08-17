@@ -1,0 +1,9 @@
+C:\Users\Kags\source\repos\KovaakShuffler\sln\bin\Release\KovaakShuffler.exe.config
+C:\Users\Kags\source\repos\KovaakShuffler\sln\bin\Release\KovaakShuffler.exe
+C:\Users\Kags\source\repos\KovaakShuffler\sln\bin\Release\KovaakShuffler.pdb
+C:\Users\Kags\source\repos\KovaakShuffler\sln\obj\Release\KovaakShuffler.KovaakShufflerMain.resources
+C:\Users\Kags\source\repos\KovaakShuffler\sln\obj\Release\KovaakShuffler.Properties.Resources.resources
+C:\Users\Kags\source\repos\KovaakShuffler\sln\obj\Release\KovaakShuffler.csproj.GenerateResource.cache
+C:\Users\Kags\source\repos\KovaakShuffler\sln\obj\Release\KovaakShuffler.exe
+C:\Users\Kags\source\repos\KovaakShuffler\sln\obj\Release\KovaakShuffler.pdb
+C:\Users\Kags\source\repos\KovaakShuffler\sln\obj\Release\KovaakShuffler.csprojAssemblyReference.cache
